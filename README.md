@@ -2,8 +2,6 @@
 
 ##### _New features will be added soon_
 
-_Thanks for visiting_
-
 - _I'm working on my Portofilo_
 - _I'm studied about some programing language_
 - _My english is bad, bad you you still understanding_
