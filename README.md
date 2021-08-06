@@ -4,7 +4,9 @@
 
 - _I'm working on my Portofilo_
 - _I'm studied about some programing language_
+- _🌱 I’m currently learning about Algorithims and Data Structures_
 - _My english is bad, bad you you still understanding_
+- **💬 Ask me about**: `C`
 
 `printf("Thank ")`
 `print("you ")`
