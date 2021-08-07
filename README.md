@@ -8,10 +8,18 @@
 - _My english is bad, bad you you still understanding_
 - **💬 Ask me about**: `C`
 
-`printf("Thank ")`
-`print("you ")`
-`cout << "for "`
-`console.log("visiting")`
+```C
+printf("Thank ")
+```
+```Python
+print("you ")
+```
+```Cpp
+cout << "for "
+```
+```Js
+console.log("visiting")
+````
 
 <!--
 **erilshackle/erilshackle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
