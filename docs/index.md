@@ -18,19 +18,6 @@ I got good marks and good learning while doing <u title="Algorithm and Data Stru
 * JavaScript
 * Java
 
-```C
-printf("Thank ")
-```
-```Python
-print("you ")
-```
-```Cpp
-cout << "for "
-```
-```Js
-console.log("visiting")
-````
-
 `I'm starting with share my free projects here..`
 
 you can reach me on [Facebook](https://www.facebook.com/eril.tavares) or by [Email](mailto:erilcarvalho@gmail.com) 
