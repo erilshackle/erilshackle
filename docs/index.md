@@ -3,7 +3,7 @@
 **Welcome to my gitHub, so far I've been working on this web page design and some thing else.**
 
 _Well,  my Name is Eril, I was born in 2001, so young but deeply in love with programing, I'm studying Computer Engineering at moment.
-I got good marks and good learning while doing <u title="Algorithm and Data Structure">ADS's</u> chair._
+I got good marks and good learning while doing <u title="Algorithm and Data Structure">ADS's</u> chair as well as others programming subjects._
 
 ##### Here some of my Knowledge:
 * C/C++ Programming Language
