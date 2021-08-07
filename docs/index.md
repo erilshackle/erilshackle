@@ -17,6 +17,7 @@ I got good marks and good learning while doing <u title="Algorithm and Data Stru
 you can reach me on [Facebook](https://www.facebook.com/eril.tavares) or by [Email](mailto:erilcarvalho@gmail.com) 
 
 
-`
-[GITHUB](https://github.com/erilshackle)
-`
+
+## [MY GITHUB](https://github.com/erilshackle)
+
+## [MY PAGE](erilshackle.github.io)
