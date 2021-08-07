@@ -1,17 +1,19 @@
-## Welcome to Eril Shackle's GitHub Home Pages
+## Welcome to Eril Shackle's GitHub
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Welcome to my gitHub, so far I've been working on this web page design and some thing else.**
 
-### Markdown
+_Well,  my Name is Eril, I was born in 2001, so young but deeply in love with programing, I'm studying Computer Engineering at moment.
+I got good marks and good learning while doing <u title="Algorithm and Data Structure">ADS's</u> chair._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### Here some of my Knowledge:
+* C/C++ Programming Language
+* HTML & CSS Language
+* Python
+* JavaScript
+* Java
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+`I'm starting with share my free projects here..`
 
-### Jekyll Themes
+you can reach me on [Facebook](https://www.facebook.com/eril.tavares)... 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erilshackle/erilshackle/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
