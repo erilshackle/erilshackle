@@ -18,6 +18,4 @@ you can reach me on [Facebook](https://www.facebook.com/eril.tavares) or by [Ema
 
 
 
-## [MY GITHUB](https://github.com/erilshackle)
-
-## [MY PAGE](erilshackle.github.io)
+## [MY WEB PAGE](erilshackle.github.io)
