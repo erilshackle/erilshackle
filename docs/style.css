@@ -60,16 +60,18 @@ div.banner {
 }
 .banner button{
     margin-top: 1rem;
-    padding: .7rem;
+    padding: .7rem .8rem;
     font: 100 1.2rem 'Mulish', 'Josefin Slab', serif;
     border: none; outline: none;
-    background: var(--btnBg);
+    background: #cc2b5e;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #753a88, #cc2b5e);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #753a88, #cc2b5e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     border-radius: 2px;
     color: var(--TxtColor);
     text-transform: uppercase;
-    box-shadow: .1rem .15rem 5px rgba(0, 0, 0, 0.7);
+    box-shadow: .1rem .1rem 5px rgba(0, 0, 0, 0.7);
     cursor: pointer;
-    transition: filter,color .5s ease-in;
+    transition: color,filter, .5s ease-in;
     filter: hue-rotate(0deg);
 }
 .banner button:hover{
@@ -94,14 +96,16 @@ div.banner {
     display: block;
     color: #fff;
     text-decoration: none;
-    background: linear-gradient(to bottom right, #000, #111);
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     margin-left: 55px;
     padding: 0.5rem 1rem;
     border-radius: 5px 15px;
     opacity: .5;
-    transition: opacity 0.5s ease;
+    transition: opacity,bacground, 0.5s ease;
 }
 .menu__items a:hover{
     opacity: 1;
-    background: linear-gradient(to top right, #1d022c, #33023d48);
+    background: linear-gradient(to bottom, #000000, #434343);
 }
