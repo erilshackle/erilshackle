@@ -6,7 +6,7 @@
 - _I'm studied about some programing language_
 - _🌱 I’m currently learning about Algorithims and Data Structures_
 - _My english is bad, bad you you still understanding_
-- **💬 Ask me about**: `C`
+- _💬 Ask me about**: `C``HTML``CSS``Js`_
 
 ```C
 printf("Thank ")
