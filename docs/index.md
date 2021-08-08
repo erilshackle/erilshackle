@@ -8,7 +8,7 @@ I got good marks and good learning while doing <u title="Algorithm and Data Stru
 - _I'm working on my Portofilo_
 - _I'm studied about some programing language_
 - _🌱 I’m currently learning about Algorithims and Data Structures_
-- _My english is bad, bad you you still understanding_
+- _My english is bad, but you still understanding_
 - _💬 Ask me about**: `C``HTML``CSS``Js`_
 
 ##### Here some of my Knowledge:
