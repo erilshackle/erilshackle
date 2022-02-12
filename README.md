@@ -4,8 +4,7 @@
 
 - _I'm working on my Portofilo_
 - _I'm studied about some programing language_
-- _🌱 I’m currently learning about Algorithims and Data Structures_
-- _My english is bad, bad you you still understanding_
+- _My english is bad, but you you still understanding, that's the goal_
 - _💬 Ask me about**: `C HTML CSS Js`_
 
 ```C
