@@ -1,4 +1,4 @@
-### Welcome to <s>Eril Carvalho's</s> My github Account 👋
+### Welcome to [<s>Eril Carvalho's</s>](linktr.ee/erilshackle) My github Account 👋
 
 ##### _New features will be added soon_
 
