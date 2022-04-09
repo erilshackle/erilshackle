@@ -6,7 +6,7 @@
 - _I'm study about programing languages `like hobby`_
 - _I'm from Cape Verde, I was born in 2001 and i am a CSE Student, my goal? `Secret ;)`_
 - _I'm comfortable with `C` `C++` `Python` `` `HTML-CSS-JS`_
-- _Please check some of my __certificates__ on my  [erilshackle](www.facebook.com)** <a href="https://www.sololearn.com/profile/10414692" >Sololearn Profile</a>**_
+- _Please check some of my __certificates__ on my  [**Sololearn Profile**](https://www.sololearn.com/profile/10414692)_
 <!-- - _💬 Ask me about**: `C++, Java, Django, `_ -->
 
 <!--
