@@ -1,4 +1,4 @@
-### Welcome to Eril Carvalho's github Page 👋
+### Welcome to <s>Eril Carvalho's</s> My github Account 👋
 
 ##### _New features will be added soon_
 
