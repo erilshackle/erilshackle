@@ -4,7 +4,7 @@
 
 - _I'm working on my project: `School Subjects Manager`_
 - _I'm study about programing languages `like hobby`_
-- _I'm from Cape Verde, I was born in 2001 and CSE Studant, my goal? `Secret ;)`_
+- _I'm from Cape Verde, I was born in 2001 and i am a CSE Student, my goal? `Secret ;)`_
 <!-- - _💬 Ask me about**: `C++, Java, Django, `_ -->
 
 <!--
