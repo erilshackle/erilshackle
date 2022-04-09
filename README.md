@@ -1,4 +1,4 @@
-### Welcome to [<s>Eril Carvalho's</s>](https://linktr.ee/erilshackle) My github Account 👋
+### Welcome to <s>Eril Carvalho's</s> My github Account 👋
 
 ##### _New features will be added soon_
 
@@ -7,6 +7,9 @@
 - _I'm comfortable with `C` `C++` `Python` `Java` `HTML-CSS-JS`_
 - _I'm from Cape Verde, I was born in 2001 and i am a CSE Student, my goal? `Secret ;)`_
 - _Please check some of my __certificates__ on my  [**Sololearn Profile**](https://www.sololearn.com/profile/10414692)_
+
+[more about me...](https://linktr.ee/erilshackle)
+[contact.me](https://t.me/+380509144504)
 <!-- - _💬 Ask me about**: `C++, Java, Django, `_ -->
 
 <!--
