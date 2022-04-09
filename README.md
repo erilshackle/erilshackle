@@ -2,23 +2,10 @@
 
 ##### _New features will be added soon_
 
-- _I'm working on my Portofilo_
-- _I'm studied about some programing language_
-- _My english is bad, but you you still understanding, that's the goal_
-- _💬 Ask me about**: `C HTML CSS Js`_
-
-```C
-printf("Thank ")
-```
-```Python
-print("you ")
-```
-```Cpp
-cout << "for "
-```
-```Js
-console.log("visiting")
-````
+- _I'm working on my project: `School Subjects Manager`_
+- _I'm study about programing languages `like hobby`_
+- _I'm from Cape Verde, I was born in 2001 and CSE Studant, my goal? `Secret ;)`_
+<!-- - _💬 Ask me about**: `C++, Java, Django, `_ -->
 
 <!--
 **erilshackle/erilshackle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
