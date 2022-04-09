@@ -1,4 +1,5 @@
 ### Welcome to <s>Eril Carvalho's</s> My github Account 👋
+[_contact.me_](https://t.me/+380509144504)
 
 ##### _New features will be added soon_
 
@@ -11,7 +12,6 @@
 
 [more about me...](https://linktr.ee/erilshackle)
 
-[_contact.me_](https://t.me/+380509144504)
 
 
 <!--
