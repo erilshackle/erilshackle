@@ -5,6 +5,8 @@
 - _I'm working on my project: `School Subjects Manager`_
 - _I'm study about programing languages `like hobby`_
 - _I'm from Cape Verde, I was born in 2001 and i am a CSE Student, my goal? `Secret ;)`_
+- _I'm comfortable with `C` `C++` `Python` `` `HTML-CSS-JS`_
+- _Please check some of my __certificates__ on my [https://www.sololearn.com/profile/10414692]{**Sololearn Profile**} _
 <!-- - _💬 Ask me about**: `C++, Java, Django, `_ -->
 
 <!--
