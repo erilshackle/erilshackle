@@ -1,6 +1,6 @@
 ### Hi there, welcome to my codebase
 
-![background](https://github.com/user-attachments/assets/da46c968-8729-4145-9b7e-8c2a240c06f3)
+![background](https://github.com/user-attachments/assets/da46c968-8729-4145-9b7e-8c2a2j40c06f3)
 
 ## Hello, I'm Eril Carvalho
 **Software Developer | Backend Engineering | Systems & Architecture | Music Maker**
