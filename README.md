@@ -69,14 +69,8 @@ I enjoy understanding how software systems work internally and building solution
 ## GitHub Activity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erilshackle&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erilshackle&show_icons=true&include_all_commits=true&theme=dark)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erilshackle&show_icons=true&include_all_commits=true&theme=dark)-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erilshackle&theme=dark)
-
----
-
-## GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=erilshackle&theme=onedark&no-frame=true&no-bg=true)
 
 ---
 
