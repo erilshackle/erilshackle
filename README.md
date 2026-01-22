@@ -1,9 +1,12 @@
 ### Hi there, welcome to my codebase
 
-![background](https://github.com/user-attachments/assets/da46c968-8729-4145-9b7e-8c2a2j40c06f3)
+![shackle](https://github.com/user-attachments/assets/464d6866-5836-4fb4-a25f-bced90b79219)
+
+<img width="1024" height="1024" alt="ChatGPT Image 6_04_2025, 14_35_41" src="https://github.com/user-attachments/assets/5af39520-9a24-4665-b741-8fecca70a1ca" />
+
 
 ## Hello, I'm Eril Carvalho
-**Software Developer | Backend Engineering | Systems & Architecture | Music Maker**
+**Software Developer | Web Developer | Systems & Architecture | Music Maker**
 
 ---
 
@@ -13,8 +16,6 @@
 - Backend-focused software developer
 - Strong interest in system design, clean abstractions, and reusable APIs
 - Experience with persistence layers, query builders, and data modeling
-- Familiar with authentication flows, security concepts, and access control
-- Interested in developer tooling and long-term maintainability
 - Based in Cabo Verde, open to remote and international opportunities
 
 I enjoy understanding how software systems work internally and building solutions that are simple, predictable, and maintainable.
@@ -41,13 +42,9 @@ I enjoy understanding how software systems work internally and building solution
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
-![Yii](https://img.shields.io/badge/Yii-800000?style=for-the-badge&logo=yii&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 Focus areas:
 - RESTful APIs and backend architecture
-- Query builders and persistence abstractions
-- Authentication and authorization (JWT, tokens, sessions)
 - Clean code, modularity, and long-term maintainability
 
 ---
@@ -65,28 +62,19 @@ Focus areas:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## Open Source & Side Projects
 
-- Backend libraries and internal tooling
+- College Projects
+- PHP libraries and internal tooling
 - Database abstractions and schema-driven utilities
 - PHP and Java-based system components
 - Experimental projects around developer experience and automation
-
----
-
-## Languages
-
-![Portuguese](https://img.shields.io/badge/Portuguese-Fluent-green?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Intermediate-yellow?style=for-the-badge)
-![Cape Verdean Creole](https://img.shields.io/badge/Kabuverdianu-Native-blue?style=for-the-badge)
 
 ---
 
