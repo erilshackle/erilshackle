@@ -1,9 +1,3 @@
-### Hi there, welcome to my codebase
-
-![shackle](https://github.com/user-attachments/assets/464d6866-5836-4fb4-a25f-bced90b79219)
-
-<img width="1024" height="1024" alt="ChatGPT Image 6_04_2025, 14_35_41" src="https://github.com/user-attachments/assets/5af39520-9a24-4665-b741-8fecca70a1ca" />
-
 
 ## Hello, I'm Eril Carvalho
 **Software Developer | Web Developer | Systems & Architecture | Music Maker**
@@ -43,10 +37,6 @@ I enjoy understanding how software systems work internally and building solution
 
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 
-Focus areas:
-- RESTful APIs and backend architecture
-- Clean code, modularity, and long-term maintainability
-
 ---
 
 ## Databases & Persistence
@@ -68,13 +58,11 @@ Focus areas:
 
 ---
 
-## Open Source & Side Projects
+## What I mostly do here in pub?
 
+- Ideas development
 - College Projects
-- PHP libraries and internal tooling
-- Database abstractions and schema-driven utilities
-- PHP and Java-based system components
-- Experimental projects around developer experience and automation
+- Libraries Maintaining
 
 ---
 
