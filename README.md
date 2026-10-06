@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Shackle — Software, Systems & Sound" width="100%" />
+<img src="./assets/hero.png" alt="Shackle — Software, Systems & Sound" width="100%" />
 
 <br>
 
