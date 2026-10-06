@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/hero.png" alt="Shackle — Software, Systems & Sound" width="100%" />
+<img src="./assets/hero.png" alt="ErilShackle — Software, Systems & Sound" width="100%" />
 
 <br>
 
-**Software Developer · Backend · Systems & Architecture**
+### Software & Web Developer · Backend · Systems & Architecture
 
-Building open-source tools, libraries and systems from Cabo Verde 🇨🇻
+Building **web applications**, **backend systems**, **open-source libraries** and **developer tools**.
 
 <br>
 
