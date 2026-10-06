@@ -1,18 +1,21 @@
 <div align="center">
 
-# SHACKLE_
+<img src="./assets/banner.png" alt="Shackle — Software, Systems & Sound" width="100%" />
 
-### I build things for the web, backend and everything underneath.
+<br>
 
-Software developer from Cabo Verde 🇨🇻  
-Building open-source tools, libraries and systems.
+**Software Developer · Backend · Systems & Architecture**
 
-[![GitHub](https://img.shields.io/badge/@erilshackle-181717?style=flat-square&logo=github)](https://github.com/erilshackle)
+Building open-source tools, libraries and systems from Cabo Verde 🇨🇻
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/@erilshackle-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/erilshackle)
 [![Packagist](https://img.shields.io/badge/Packagist-erilshk-F28D1A?style=flat-square&logo=packagist&logoColor=white)](https://packagist.org/packages/erilshk/)
 
 </div>
 
----
+<br>
 
 ## `./projects`
 
@@ -24,15 +27,15 @@ Building open-source tools, libraries and systems.
 
 **Scheduling primitives for PHP.**
 
-Availability, busy periods and bookable time slots without tying your application to a framework.
+Availability, busy periods and bookable time slots with a small, framework-agnostic API.
 
 [Repository](https://github.com/eril/calendary) · [Packagist](https://packagist.org/packages/eril/calendary)
 
 ![Packagist](https://img.shields.io/packagist/v/eril/calendary?style=flat-square)
+![PHP](https://img.shields.io/packagist/dependency-v/eril/calendary/php?style=flat-square)
 ![License](https://img.shields.io/packagist/l/eril/calendary?style=flat-square)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 💳 Vinti4Net
@@ -44,6 +47,7 @@ SDK for integrating PHP applications with the SISP / Rede Vinti4 payment infrast
 [Packagist](https://packagist.org/packages/erilshk/vinti4net)
 
 ![Packagist](https://img.shields.io/packagist/v/erilshk/vinti4net?style=flat-square)
+![PHP](https://img.shields.io/packagist/dependency-v/erilshk/vinti4net/php?style=flat-square)
 ![License](https://img.shields.io/packagist/l/erilshk/vinti4net?style=flat-square)
 
 </td>
@@ -56,33 +60,32 @@ SDK for integrating PHP applications with the SISP / Rede Vinti4 payment infrast
 
 **Database migrations without the ceremony.**
 
-A lightweight migration tool with history, baselines, squash workflows and multiple database drivers.
+Lightweight migration tooling with history, baselines, squash workflows and multiple database drivers.
 
-`PHP` `CLI` `MySQL` `PostgreSQL` `SQLite`
+`PHP` `CLI` `Database` `Migrations`
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ⚙️ Peshk
 
-**Where I experiment with PHP architecture.**
+**A playground for PHP architecture.**
 
 Routing, middleware, rendering, APIs, persistence, security and CLI tooling.
 
-`PHP` `Architecture` `Framework` `Experimental`
+`PHP` `Architecture` `Web` `Tooling`
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## `./toolbox`
+## `./stack`
 
 <div align="center">
 
-**Languages**
+### Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -92,16 +95,17 @@ Routing, middleware, rendering, APIs, persistence, security and CLI tooling.
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frameworks & Web**
+### Frameworks & Web
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Data & Tools**
+### Data & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -111,30 +115,32 @@ Routing, middleware, rendering, APIs, persistence, security and CLI tooling.
 
 </div>
 
----
+<br>
 
 ## `./activity`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=erilshackle&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=erilshackle&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erilshackle&layout=compact&theme=github_dark&hide_border=true" />
 
-<br>
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=erilshackle&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-<code>build → break → understand → improve</code>
+`build → break → understand → improve`
 
 <br><br>
 
-Open to open-source collaboration and interesting software projects.
+Open to **open-source collaboration** and interesting software projects.
 
 <br><br>
 
